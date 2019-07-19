@@ -2,9 +2,14 @@
 
 # dependencies
 /node_modules
+/src/config/firebase.js
 /.pnp
 .pnp.js
+/.firebase
 
+/public/*.png
+/public/*.jpg
+/public/*.gif
 # testing
 /coverage
 
@@ -17,6 +22,9 @@
 .env.development.local
 .env.test.local
 .env.production.local
+
+.firebaserc
+firebase.json
 
 npm-debug.log*
 yarn-debug.log*

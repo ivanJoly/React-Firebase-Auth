@@ -1,0 +1,16 @@
+.Button{
+    display: block;
+    background-color: #2ea8df;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    color: beige;
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    font: normal;
+    padding: 10px 5px;
+    width: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
