@@ -25,7 +25,8 @@ appId: ""
 };  
   
 export  default  config;  
-```El archivo tiene que ser igual a este formato, pero con los datos de tus credenciales de Firebase.  
+```
+El archivo tiene que ser igual a este formato, pero con los datos de tus credenciales de Firebase.  
   
 Luego ejecutar la acción de create-react-app y utilizarla como uno desee.
 ```bash  
@@ -35,3 +36,4 @@ npm  start
 ## License
 eccentricfoxestudio@gmail.com
 www.eccentricfox.com.ar
+
